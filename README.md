@@ -24,3 +24,4 @@ olacak bir dijital asistan tasarlamak
  *  BİTTİ
  *  ## Kaynakça:
  *  MEB Bilişim Teknolojileri Alanı 9.sınıf Programlama Temelleri Ders Kitabı
+<img width="589" height="534" alt="GitHub pdf - Foxit Reader 14 10 2026 11_30_36" src="https://github.com/user-attachments/assets/125abdbc-582d-40d0-b2c2-5caad3eaa309" />
